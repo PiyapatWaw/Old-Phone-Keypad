@@ -1,0 +1,14 @@
+E:\PhoneKeypad\PhoneKeypad\bin\Debug\net8.0\PhoneKeypad.exe
+E:\PhoneKeypad\PhoneKeypad\bin\Debug\net8.0\PhoneKeypad.deps.json
+E:\PhoneKeypad\PhoneKeypad\bin\Debug\net8.0\PhoneKeypad.runtimeconfig.json
+E:\PhoneKeypad\PhoneKeypad\bin\Debug\net8.0\PhoneKeypad.dll
+E:\PhoneKeypad\PhoneKeypad\bin\Debug\net8.0\PhoneKeypad.pdb
+E:\PhoneKeypad\PhoneKeypad\obj\Debug\net8.0\PhoneKeypad.GeneratedMSBuildEditorConfig.editorconfig
+E:\PhoneKeypad\PhoneKeypad\obj\Debug\net8.0\PhoneKeypad.AssemblyInfoInputs.cache
+E:\PhoneKeypad\PhoneKeypad\obj\Debug\net8.0\PhoneKeypad.AssemblyInfo.cs
+E:\PhoneKeypad\PhoneKeypad\obj\Debug\net8.0\PhoneKeypad.csproj.CoreCompileInputs.cache
+E:\PhoneKeypad\PhoneKeypad\obj\Debug\net8.0\PhoneKeypad.dll
+E:\PhoneKeypad\PhoneKeypad\obj\Debug\net8.0\refint\PhoneKeypad.dll
+E:\PhoneKeypad\PhoneKeypad\obj\Debug\net8.0\PhoneKeypad.pdb
+E:\PhoneKeypad\PhoneKeypad\obj\Debug\net8.0\PhoneKeypad.genruntimeconfig.cache
+E:\PhoneKeypad\PhoneKeypad\obj\Debug\net8.0\ref\PhoneKeypad.dll
